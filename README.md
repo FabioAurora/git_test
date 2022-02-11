@@ -12,3 +12,9 @@ testing git commit without the -m
 test test test
 
 ## test with longer text
+
+Endpoint
+https://badges.pufler.dev/commits/{periodicity}/{username}
+
+Markdown
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
