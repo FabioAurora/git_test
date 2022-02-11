@@ -14,5 +14,3 @@ test test test
 ## test with longer text
 
 
-${FabioAurora}.${git_test}
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
